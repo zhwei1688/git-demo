@@ -10,3 +10,5 @@ this is master branch.
 lovely boss
 
 Let's test stash
+
+ok,we can working in master.
